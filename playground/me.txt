@@ -1,5 +1,0 @@
-{{# vipin9575}}
-Name: Vipin 
-Skills: HTML, CSS, JavaScript
-Email: vipin@9575@gmail.com
-{{# vipin9575}}
